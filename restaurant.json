@@ -1,0 +1,245 @@
+{
+    "restaurants": [
+      {
+        "resid": 1,
+        "name": "Sree Annapoorna",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/381f5d7481d4cf08b35a063b8787070b_1617918168.png?output-format=webp",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/3/3000293/a67239e7f0a96f17e2b376ddf1c52b62_o2_featured_v2.jpg",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "South Indian": [101, 102, 106]
+          },
+          {
+            "North Indian": [104, 107, 108]
+          },
+          {
+            "Chinese": [103, 105]
+          }
+        ]
+      },
+      {
+        "resid": 2,
+        "name": "Burger King",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187820.png?output-format=webp",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/0/3002360/8c49ba335683507ba6ddee2dc84966e8_o2_featured_v2.jpg?output-format=webp",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "Burger": [201, 202, 203, 204, 205]
+          },
+          {
+            "Fastfood": [206, 208]
+          },
+          {
+            "Icecream": [207, 209]
+          }
+        ]
+      },
+      {
+        "resid": 3,
+        "name": "KFC",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/9da52e2b69f19bb603227a750e788d33_1613214750.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/0/3000040/ee867188bb2a7b44487b7ba22d9434b0_o2_featured_v2.jpg?output-format=webp",
+        "resstatus": "Open Now",
+        "resrating": "3.9",
+        "rescuisines": [
+          {
+            "Burger": [301, 302, 303, 304, 305]
+          },
+          {
+            "Fastfood": [306, 308]
+          },
+          {
+            "Icecream": [307, 309]
+          }
+        ]
+      },
+      {
+        "resid": 4,
+        "name": "Shree Anandhaas",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/92cb4e710a3f6019f0f4958c35e786c2_1568614848.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/2/3000002/e26d3e0722a73c439d8201935a40f65d.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "South Indian": [401, 402, 406]
+          },
+          {
+            "North Indian": [404, 407, 408]
+          },
+          {
+            "Chinese": [403, 405]
+          }
+        ]
+      },
+      {
+        "resid": 5,
+        "name": "Domino's Pizza",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/5caf38856d23347b351bb7abf97134d3_1545223343.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/1/3000091/46ab03171d9eec9cc24d2067569ef485_o2_featured_v2.jpg",
+        "resstatus": "Open Now",
+        "resrating": "3.9",
+        "rescuisines": [
+          {
+            "Pizza": [501, 502, 503, 504, 505]
+          },
+          {
+            "Fastfood": [506, 508]
+          },
+          {
+            "Icecream": [507, 509]
+          }
+        ]
+      },
+      {
+        "resid": 6,
+        "name": "Dindigul Thalappakatti",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/0956194de2534812e820317cd4b0ccd3_1630505737.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/2/3002282/7d59d4ed9c6e0beb21a76e7a5ae3d87b_o2_featured_v2.jpg?output-format=webp",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "South Indian": [401, 402, 406]
+          },
+          {
+            "North Indian": [404, 407, 408]
+          },
+          {
+            "Briyani": [403, 405]
+          }
+        ]
+      },
+      {
+        "resid": 7,
+        "name": "Sree Annapoorna",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/381f5d7481d4cf08b35a063b8787070b_1617918168.png?output-format=webp",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/3/3000293/a67239e7f0a96f17e2b376ddf1c52b62_o2_featured_v2.jpg",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "South Indian": [101, 102, 106]
+          },
+          {
+            "North Indian": [104, 107, 108]
+          },
+          {
+            "Chinese": [103, 105]
+          }
+        ]
+      },
+      {
+        "resid": 8,
+        "name": "Burger King",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/6a11fd0f30c9fd9ceaff2f5b21f61d23_1617187820.png?output-format=webp",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/0/3002360/8c49ba335683507ba6ddee2dc84966e8_o2_featured_v2.jpg?output-format=webp",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "Burger": [201, 202, 203, 204, 205]
+          },
+          {
+            "Fastfood": [206, 208]
+          },
+          {
+            "Icecream": [207, 209]
+          }
+        ]
+      },
+      {
+        "resid": 9,
+        "name": "KFC",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/9da52e2b69f19bb603227a750e788d33_1613214750.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/0/3000040/ee867188bb2a7b44487b7ba22d9434b0_o2_featured_v2.jpg?output-format=webp",
+        "resstatus": "Open Now",
+        "resrating": "3.9",
+        "rescuisines": [
+          {
+            "Burger": [301, 302, 303, 304, 305]
+          },
+          {
+            "Fastfood": [306, 308]
+          },
+          {
+            "Icecream": [307, 309]
+          }
+        ]
+      },
+      {
+        "resid": 10,
+        "name": "Shree Anandhaas",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/92cb4e710a3f6019f0f4958c35e786c2_1568614848.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/2/3000002/e26d3e0722a73c439d8201935a40f65d.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "South Indian": [401, 402, 406]
+          },
+          {
+            "North Indian": [404, 407, 408]
+          },
+          {
+            "Chinese": [403, 405]
+          }
+        ]
+      },
+      {
+        "resid": 11,
+        "name": "Domino's Pizza",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/5caf38856d23347b351bb7abf97134d3_1545223343.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/1/3000091/46ab03171d9eec9cc24d2067569ef485_o2_featured_v2.jpg",
+        "resstatus": "Open Now",
+        "resrating": "3.9",
+        "rescuisines": [
+          {
+            "Pizza": [501, 502, 503, 504, 505]
+          },
+          {
+            "Fastfood": [506, 508]
+          },
+          {
+            "Icecream": [507, 509]
+          }
+        ]
+      },
+      {
+        "resid": 12,
+        "name": "Dindigul Thalappakatti",
+        "location": "Gandhipuram, Coimbatore",
+        "logoimagepath": "https://b.zmtcdn.com/data/brand_creatives/logos/0956194de2534812e820317cd4b0ccd3_1630505737.png",
+        "resimagepath": "https://b.zmtcdn.com/data/pictures/chains/2/3002282/7d59d4ed9c6e0beb21a76e7a5ae3d87b_o2_featured_v2.jpg?output-format=webp",
+        "resstatus": "Open Now",
+        "resrating": "4.0",
+        "rescuisines": [
+          {
+            "South Indian": [401, 402, 406]
+          },
+          {
+            "North Indian": [404, 407, 408]
+          },
+          {
+            "Briyani": [403, 405]
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,76 @@
+{
+    "dishes":[
+        {
+            "dishid":101,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/f46/7026e11563ceadc4221162883eab9f46.jpg?output-format=webp",
+            "dishdesc":"Idli is a traditional South Indian steamed rice cake made from fermented rice and black lentil batter, often served with chutney or sambar.",
+            "dishname":"Idli",
+            "dishprice":"42",
+            "cuisine":"South Indian",
+            "resid":1
+        },
+        {
+            "dishid":102,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/862/7db603dd42c51a282b7566f0825f6862.jpg",
+            "dishdesc":"Dosa is a thin, crispy South Indian pancake made from fermented rice and black lentil batter, cooked on a hot griddle until golden brown, commonly served with chutney and sambar.",
+            "dishname":"Dosa",
+            "dishprice":"88",
+            "cuisine":"South Indian",
+            "resid":1
+        },
+        {
+            "dishid":103,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/523/2ce289ed02a922e3e30bfb8266e7d523.jpg",
+            "dishdesc":"Vegetable noodles are stir-fried noodles with mixed veggies, commonly seasoned with soy sauce and spices.",
+            "dishname":"Veg Noodles",
+            "dishprice":"110",
+            "cuisine":"Chinese",
+            "resid":1
+        },
+        {
+            "dishid":104,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/f41/c80f8c174161755cd8afcf3efcbe0f41.jpg",
+            "dishdesc":"Paneer Butter Masala is a classic North Indian dish made with paneer (Indian cottage cheese) cooked in a rich and creamy tomato-based gravy, flavored with butter, cream, and a blend of aromatic spices.",
+            "dishname":"Panner Butter Masala",
+            "dishprice":"140",
+            "cuisine":"North Indian",
+            "resid":1
+        },
+        {
+            "dishid":105,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/133/a0104973477261d1acec8e2fd2fe6133.jpg?output-format=webp",
+            "dishdesc":"Gobi Manchurian is a popular Indo-Chinese dish made with crispy fried cauliflower florets tossed in a tangy and spicy sauce, typically flavored with garlic, ginger, soy sauce, and other seasonings, often garnished with spring onions.",
+            "dishname":"Gobi Manchurian",
+            "dishprice":"120",
+            "cuisine":"Chinese",
+            "resid":1
+        },
+        {
+            "dishid":106,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/1f7/2ede1e7722b30dca6d9aaf97912b71f7.jpg?output-format=webp",
+            "dishdesc":"Pongal is a traditional South Indian dish made primarily with rice and lentils, typically seasoned with cumin, black pepper, and ginger, and often cooked with ghee (clarified butter) and cashews",
+            "dishname":"Pongal",
+            "dishprice":"75",
+            "cuisine":"South Indian",
+            "resid":1
+        },
+        {
+            "dishid":107,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/21f/10718abe4b39615a0a4551e63e8aa21f.jpg?output-format=webp",
+            "dishdesc":"Butter naan is a popular Indian flatbread made with refined flour, yeast, yogurt, and butter, typically cooked in a tandoor (clay oven) until soft, fluffy, and slightly charred, often brushed with butter before serving.",
+            "dishname":"Butter Naan",
+            "dishprice":"50",
+            "cuisine":"North Indian",
+            "resid":1
+        },
+        {
+            "dishid":108,
+            "dishimage":"https://b.zmtcdn.com/data/dish_photos/890/d7231ab54717b0341f4189b9ac78c890.jpg?output-format=webp",
+            "dishdesc":"Naan is a leavened Indian flatbread, typically cooked in a tandoor oven and served with curries or other dishes.",
+            "dishname":"Naan",
+            "dishprice":"40",
+            "cuisine":"North Indian",
+            "resid":1
+        }
+    ]
+}
